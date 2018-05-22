@@ -1,0 +1,23 @@
+
+.text-xs-center {
+        text-align: center;
+    }
+
+    .g-recaptcha {
+        display: inline-block;
+    }
+
+.form-actions {
+    margin: 0;
+    background-color: transparent;
+    text-align: center;
+    
+}
+
+.contact-btn {
+    margin-left: 180px;
+}
+
+.navbar-brand {
+    padding: 5px 15px 0 10px;
+}
